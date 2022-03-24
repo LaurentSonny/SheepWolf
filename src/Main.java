@@ -6,14 +6,6 @@ public class Main {
 
 	public Main() {
 		String depart = "WSC//0/";
-		/*
-		System.out.println("'depart': " + depart + "\n");
-		ArrayList<String> succ = calculSuccesseurs(depart);
-		System.out.println("Liste des successeurs de 'depart': ");
-		for (String string : succ) {
-			System.out.println(string);
-		}
-		*/
 		ArrayList<String> aFaire = new ArrayList<String>();
 		ArrayList<String> dejaFait = new ArrayList<String>();
 		
