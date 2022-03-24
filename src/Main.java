@@ -3,6 +3,18 @@ import java.util.ArrayList;
 public class Main {
 	
 	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
+	// Loup = W , Chevre = S, Chou = C
 
 	public Main() {
 		String depart = "WSC//0/";
